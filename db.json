@@ -1,0 +1,60 @@
+{
+  "books": [
+    {
+      "id": "3",
+      "bookname": "Twisted Love",
+      "price": "150",
+      "author": "Anna Huang",
+      "img": "https://m.media-amazon.com/images/I/71YJet75sxL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+      "id": "80f1",
+      "img": "https://m.media-amazon.com/images/I/71omNKSfqEL._AC_UF1000,1000_QL80_DpWeblab_.jpg",
+      "price": "300",
+      "author": "Diana Gabaldon",
+      "bookname": "Outlander"
+    },
+    {
+      "id": "93ec",
+      "img": "https://m.media-amazon.com/images/I/81Ls+SBCLiL._AC_UF1000,1000_QL80_.jpg",
+      "price": "300",
+      "author": "James Clear",
+      "bookname": "Atomic Habits"
+    },
+    {
+      "id": "8b31",
+      "img": "https://rukminim2.flixcart.com/image/850/1000/kjvrdzk0/book/c/o/s/a-glossary-of-literary-terms-original-imafzcxudsagymbz.jpeg?q=20&crop=false",
+      "price": "400",
+      "author": "Mh Abraham",
+      "bookname": "Glossary of literary terms"
+    },
+    {
+      "id": "bdfe",
+      "img": "https://m.media-amazon.com/images/I/71A4FxmsL-L._AC_UF1000,1000_QL80_.jpg",
+      "price": "160",
+      "author": "Ali Hazelwood",
+      "bookname": "Bride Ali"
+    },
+    {
+      "id": "22fd",
+      "img": "https://m.media-amazon.com/images/I/813aV273-rL._AC_UF1000,1000_QL80_.jpg",
+      "price": "230",
+      "author": "Colleen Hover",
+      "bookname": "It Ends With US"
+    },
+    {
+      "id": "392e",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2022/3/TX/KN/VL/148839554/dune-book.jpg",
+      "price": "123",
+      "author": "Frank Herbert",
+      "bookname": "Dune"
+    },
+    {
+      "id": "1507",
+      "img": "https://m.media-amazon.com/images/I/41oCesFWhdL.jpg",
+      "price": "300",
+      "author": "Frieda McFaden",
+      "bookname": "Never Lie"
+    }
+  ]
+}
